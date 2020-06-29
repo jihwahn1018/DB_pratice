@@ -1,0 +1,13 @@
+drop table tracing_vehicle;
+drop table tracing_wh;
+drop table vehicle;
+drop table warehouse;
+drop table delivered;
+drop table tracking;
+drop table service;
+drop table payment;
+drop table predicted_time;
+drop table package;
+drop table hazard;
+drop table customer;
+drop table card;
