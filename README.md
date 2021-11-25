@@ -1,6 +1,6 @@
 # DB_pratice
 
-##HyperCloud app
+## HyperCloud app
 
 ### Install HyperCloud application
 Install hyperauth, hypercloud-operator, hypercloud-operator, hypercloud-console
